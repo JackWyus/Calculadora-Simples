@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
-    <script>
-        //Calculadora Dinamica
+ //Calculadora Dinamica
 
         // Queremos um número inicial
         // Queremos um sinal(tipo de operação)
@@ -40,7 +36,3 @@
         }
 
         alert("O resultado final é: "+ resultadoFinal);
-
-    </script>
-</body>
-</html>
